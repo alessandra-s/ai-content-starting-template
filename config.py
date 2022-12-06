@@ -13,4 +13,5 @@ config = {
 }
 
 ## Enter your Open API Key here
-OPENAI_API_KEY = ''
+##enviorment variable set on operating system rather than within application
+OPENAI_API_KEY = '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'
